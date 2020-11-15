@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Written by Alessandro Crespi
 # Creates a temporary file with a do-nothing C program
 
 tmp=/tmp/testlibpng.c

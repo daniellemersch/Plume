@@ -1,4 +1,5 @@
-//Copyright (c) Danielle Mersch. All rights reserved.
+// Created by Danielle Mersch
+// Copyright Unil. All rights reserved.
 
 #ifndef __mainwin__
 #define __mainwin__
